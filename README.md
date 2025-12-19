@@ -66,10 +66,10 @@ NFL outcomes are high variance and even a good model will not be 100% correct. S
 ## Screenshots of Model Predictions (NFL Week 14 and Week 15)
 **Week 14**
 
-![Week1 4 Predictions](images/Week14.png)
+![Week1 4 Predictions](Images/Week14.png)
 
 
 **Week 15**
 
-![Week 15 Predictions](images/Week15.png)
+![Week 15 Predictions](Images/Week15.png)
 
